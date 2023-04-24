@@ -1,4 +1,4 @@
-gpuview
+gpuview (updated in 2023-04-25 to keep things working)
 =======
 
 [![LICENSE](https://img.shields.io/github/license/fgaim/gpuview.svg)](https://github.com/fgaim/gpuview/blob/master/LICENSE)
@@ -28,16 +28,10 @@ Setup
 
 Python is required,`gpuview` has been tested with both 2.7 and 3 versions.
 
-Install from [PyPI][pypi_gpuview]:
+Install directly from repo:
 
 ```
-$ pip install gpuview
-```
-
-[or] Install directly from repo:
-
-```
-$ pip install git+https://github.com/fgaim/gpuview.git@master
+$ pip install git+https://github.com/EccHui/gpuview.git
 ```
 
 > `gpuview` installs the latest version of `gpustat` from `pypi`, therefore, its commands are available 
